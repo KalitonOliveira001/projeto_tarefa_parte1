@@ -1,0 +1,3 @@
+Programação Orientada a Objetos é um estilo de programação onde a gente pensa em objetos. Cada objeto tem características e ações. Por exemplo, um carro tem cor, modelo e pode acelerar ou frear. Isso ajuda a deixar o código mais organizado.
+
+Já a Programação Procedural é quando a gente escreve tudo em sequência, tipo passo a passo. A gente manda o computador fazer uma coisa depois da outra, como se fosse uma receita de bolo. É mais simples, mas pode ficar bagunçado em programas grandes.

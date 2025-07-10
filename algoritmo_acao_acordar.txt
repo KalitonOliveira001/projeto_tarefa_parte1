@@ -1,0 +1,14 @@
+Algoritmo "rotina_ao_acordar"
+
+Inicio
+    Escreva("O despertador toca")
+    Escreva("Eu abro um olho")
+    Escreva("Fico mais 2 minutos deitado")
+    Escreva("Levanto devagar com o olho fechado")
+    Escreva("Vou até o banheiro")
+    Escreva("Escovo os dentes")
+    Escreva("Lavo o rosto")
+    Escreva("Tomo café da manhã")
+    Escreva("Troco de roupa")
+    Escreva("Me preparo para o dia")
+Fim
